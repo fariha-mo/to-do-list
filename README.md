@@ -76,9 +76,9 @@ To see how you can add code snippets, see below:
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
-```css
+```css, I never knew gradients were this simple!
 .proud-of-this-css {
-  color: papayawhip;
+ background-image:  linear-gradient(125deg,#57ddff, #c058f3);
 }
 ```
 ```js
